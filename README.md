@@ -26,7 +26,7 @@
 
 ## Setup
 ``` 
-git clone https://github.com/thouhgtwolf/Flaskex
+git clone https://github.com/thouhgtwolf/flaskex
 cd Flaskex
 pip install -r requirements.txt
 python app.py
